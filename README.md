@@ -9,8 +9,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 # I'm Atyom Python developer
 ### Computer science student from Russia 🇷🇺
 -->
-<h1
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" /></h1>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" />
 <br />
 
 ![](https://komarev.com/ghpvc/?username=Artyom-Serov)
