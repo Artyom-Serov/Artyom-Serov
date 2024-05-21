@@ -1,5 +1,6 @@
-# Hi there, I'm Atyom ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 🇷🇺
+# Hi there, ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# I'm Atyom
+### Computer science student from Russia 🇷🇺
 
 <!--
 **Artyom-Serov/Artyom-Serov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
